@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "fullname": "Anik Mishra",
+      "email": "anik@gmail.com",
+      "password": "Anik",
+      "id": 2
+    },
+    {
+      "fullname": "Rohan Singh",
+      "email": "rohan@gmail.com",
+      "password": "rohan",
+      "id": 3
+    },
+    {
+      "fullname": "Anik Mishra",
+      "email": "anik@gmail.com",
+      "password": "Anik",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "hi",
+      "user_id": 1
+    },
+    {
+      "comment": "Hello",
+      "user_id": 2,
+      "id": 2
+    },
+    {
+      "comment": "Ok",
+      "user_id": 3,
+      "id": 3
+    },
+    {
+      "comment": "Hii",
+      "user_id": 3,
+      "id": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
