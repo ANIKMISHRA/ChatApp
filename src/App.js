@@ -18,7 +18,7 @@ const App = () => {
   // userData state store login user's detail
   const [userData, setUserData] = useState('');
 
-  // useMemo hook stop the rerendring again and again
+  // useMemo hook stop the rerendring of again
   const userAuthData = useMemo(() => ({
     userData, setUserData,
   }));
