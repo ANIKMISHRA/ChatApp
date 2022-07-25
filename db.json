@@ -39,6 +39,21 @@
       "comment": "Hii",
       "user_id": 3,
       "id": 4
+    },
+    {
+      "comment": "How are You",
+      "user_id": 2,
+      "id": 5
+    },
+    {
+      "comment": "Hey ",
+      "user_id": 2,
+      "id": 6
+    },
+    {
+      "comment": "hii",
+      "user_id": 2,
+      "id": 7
     }
   ],
   "profile": {
